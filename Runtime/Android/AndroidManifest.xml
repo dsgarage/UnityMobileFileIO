@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dsgarage.mobilefileio">
+
+    <application>
+        <!-- File Picker Activity -->
+        <activity
+            android:name="com.dsgarage.mobilefileio.MobileFileIOActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:exported="false" />
+    </application>
+
+</manifest>

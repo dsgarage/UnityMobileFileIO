@@ -1,0 +1,21 @@
+{
+  "name": "com.dsgarage.unitymobilefileio",
+  "version": "1.0.0",
+  "displayName": "Unity Mobile File IO",
+  "description": "Mobile file picker using native platform APIs directly. iOS: UIDocumentPickerViewController, Android: Storage Access Framework (SAF).",
+  "unity": "2021.3",
+  "author": {
+    "name": "dsgarage",
+    "email": "dsgarage@gmail.com"
+  },
+  "keywords": [
+    "file",
+    "picker",
+    "mobile",
+    "ios",
+    "android",
+    "document",
+    "saf"
+  ],
+  "license": "MIT"
+}
